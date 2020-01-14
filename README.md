@@ -4,4 +4,4 @@
 
 ### Setting up plyfile (to open .ply files for clustering)
 
-'''pip install plyfile'''
+```pip install plyfile```
